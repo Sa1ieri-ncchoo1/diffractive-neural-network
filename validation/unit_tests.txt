@@ -1,0 +1,10 @@
+test_contrast_margin_has_expected_zero_loss (test_core.PhysicsAndCheckpointTests) ... ok
+test_losses_backpropagate_to_every_phase_layer (test_core.PhysicsAndCheckpointTests) ... ok
+test_saved_checkpoint_rejects_wrong_detector (test_core.PhysicsAndCheckpointTests) ... ok
+test_saved_checkpoint_rejects_wrong_physics (test_core.PhysicsAndCheckpointTests) ... ok
+test_zero_distance_recovers_complex_field (test_core.PhysicsAndCheckpointTests) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.316s
+
+OK

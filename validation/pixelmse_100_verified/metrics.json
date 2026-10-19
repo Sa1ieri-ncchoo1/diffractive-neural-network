@@ -1,0 +1,26 @@
+{
+  "environment": {
+    "python": "3.10.20",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.11.0.dev20260203+cu128",
+    "torchvision": "0.25.0.dev20260205+cu128",
+    "numpy": "2.0.1",
+    "cuda_available": true,
+    "cuda_version": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU"
+  },
+  "device": "cuda",
+  "batch_size": 32,
+  "seed": 42,
+  "trainable_parameters": 50000,
+  "command": "evaluate",
+  "limit": 0,
+  "checkpoint_sha256": "7cd81df66faca894d1b38dde2d8feb99ccafd531ec40327d50b1c664ba220686",
+  "detector_overlap_pixels": 0,
+  "samples": 10000,
+  "correct": 9120,
+  "accuracy": 0.912,
+  "loss": 0.0013989408418536187,
+  "elapsed_seconds": 2.935066200327128,
+  "scope": "full MNIST test split"
+}

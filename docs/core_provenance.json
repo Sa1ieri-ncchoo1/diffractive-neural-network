@@ -1,0 +1,16 @@
+{
+  "original_source": "train.py",
+  "original_source_sha256": "13d96f211685e697077b536e62c9ea1dfc159c5bb34a4f1eef1209f111138b94",
+  "destination": "d2nn/core.py",
+  "unchanged_definitions": [
+    "set_seed",
+    "Diffraction",
+    "RingDetector",
+    "D2NNPhaseOnly",
+    "D2NNOpticalClassifier",
+    "mse_onehot_loss",
+    "contrast_loss",
+    "pixel_mse_loss"
+  ],
+  "verification": "Definitions matched original Python AST during 2026-10-12 review."
+}

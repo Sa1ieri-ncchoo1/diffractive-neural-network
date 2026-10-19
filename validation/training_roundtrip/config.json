@@ -1,0 +1,25 @@
+{
+  "n_pixels": 56,
+  "num_layers": 1,
+  "wavelength": 5.32e-07,
+  "pixel_size": 3e-07,
+  "distances": [
+    8.75e-06,
+    8.75e-06
+  ],
+  "ring_distance_px": 15,
+  "region_radius_px": 3,
+  "loss": "pixel_mse",
+  "encoding": "amplitude",
+  "seed": 42,
+  "lr": 0.006,
+  "epochs": 15,
+  "noise_std": 0.05,
+  "translate": 0.02,
+  "scale": [
+    0.95,
+    1.05
+  ],
+  "checkpoint": null,
+  "configuration_status": "Current supplied train.py defaults; not the thesis main result."
+}

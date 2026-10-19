@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+.env
+.env.*
+data/
+runs/
+private_review/
+*.fsp
+*.mat
+*.npy
+*.zip
+*.log
+.DS_Store

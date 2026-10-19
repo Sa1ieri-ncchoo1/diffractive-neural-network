@@ -1,0 +1,10 @@
+{
+  "python": "3.10.20",
+  "packages": {
+    "torch": "2.11.0.dev20260203+cu128",
+    "torchvision": "0.25.0.dev20260205+cu128",
+    "numpy": "2.0.1",
+    "matplotlib": "3.9.1"
+  },
+  "scope": "Direct dependencies only, filtered from the original 2026-10-12 validation environment."
+}

@@ -1,0 +1,29 @@
+{
+  "n_pixels": 200,
+  "num_layers": 5,
+  "wavelength": 5.32e-07,
+  "pixel_size": 8e-06,
+  "distances": [
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01,
+    0.01
+  ],
+  "ring_distance_px": 28,
+  "region_radius_px": 8,
+  "loss": "mse",
+  "encoding": "amplitude",
+  "seed": 42,
+  "lr": 0.006,
+  "epochs": 15,
+  "noise_std": 0.05,
+  "translate": 0.01,
+  "scale": [
+    0.99,
+    1.01
+  ],
+  "checkpoint": "checkpoints/baseline_200.pt",
+  "configuration_status": "Evaluation reconstruction from checkpoint buffers, existing test.py and thesis; historical training augmentation not established."
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "source": "d2nn_model_5layers.pth",
+    "destination": "checkpoints/baseline_200.pt",
+    "source_sha256": "b94ca8e2946fb06752e21e1b8ac96459da47b649e74436c2d167c88e4b7bf2c8",
+    "change": "Renamed unchanged checkpoint. Selected after full-test-set verification; first filename candidate scored 86.95%."
+  },
+  {
+    "source": "lr6e-3_15epoch_5layers_contrastloss_sumnorm",
+    "destination": "checkpoints/contrast_200.pt",
+    "source_sha256": "9de27f27ea341fd32a9bf7bed0017e6e7ff08275713ad62a377d778245e7983e",
+    "change": "Filename only; original state_dict bytes preserved."
+  },
+  {
+    "source": "lr6e-3_15epoch_5layers_contrastloss_sumnorm_ringdistance14_npixie100",
+    "destination": "checkpoints/contrast_100.pt",
+    "source_sha256": "41ca3ecf094910c15594d82dde92134ee380982820b4d135ebfc54db957abf4a",
+    "change": "Filename only; original state_dict bytes preserved."
+  },
+  {
+    "source": "lr6e-3_15epoch_5layers_contrastloss_sumnorm_ringdistance20_npixie100",
+    "destination": "checkpoints/contrast_100_ring20.pt",
+    "source_sha256": "18bc43a4751fe4752c41465e00d446f78f6b5fd79c9f9592da3d865d60c8ee0e",
+    "change": "Filename only; original state_dict bytes preserved."
+  },
+  {
+    "source": "lr6e-3_15epoch_5layers_pixelMSE_ringdistance20_npixie100",
+    "destination": "checkpoints/pixelmse_100.pt",
+    "source_sha256": "7cd81df66faca894d1b38dde2d8feb99ccafd531ec40327d50b1c664ba220686",
+    "change": "Filename only; original state_dict bytes preserved."
+  },
+  {
+    "source": "thesis archive: 毕设材料/contrastloss 97.56% 与归一化成功/plot_2026-04-28 22-37-06_1.png",
+    "destination": "assets/reported/contrast_200_examples.png",
+    "source_sha256": "457055f16915600876c20a7abab18e9a0dbcaa8d1e5b9195620196ff0280ccdf",
+    "change": "Renamed; original image unchanged; historical reported evidence."
+  },
+  {
+    "source": "compare_v4_main.png",
+    "destination": "assets/reported/compare_v4_main.png",
+    "source_sha256": "0bf5582cdf8044d9643e4f326c01fafc056a9b34a6756d04580950e7cfcc9165",
+    "change": "Original diagnostic image unchanged; not full-test-set evaluation."
+  }
+]

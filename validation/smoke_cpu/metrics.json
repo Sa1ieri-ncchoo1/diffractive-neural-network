@@ -1,0 +1,26 @@
+{
+  "environment": {
+    "python": "3.10.20",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.11.0.dev20260203+cu128",
+    "torchvision": "0.25.0.dev20260205+cu128",
+    "numpy": "2.0.1",
+    "cuda_available": true,
+    "cuda_version": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5070 Laptop GPU"
+  },
+  "device": "cpu",
+  "batch_size": 32,
+  "seed": 42,
+  "trainable_parameters": 3136,
+  "command": "smoke",
+  "limit": 0,
+  "checkpoint_sha256": null,
+  "status": "passed",
+  "synthetic_samples": 2,
+  "finite_loss": 0.17508511245250702,
+  "score_shape": [
+    2,
+    10
+  ]
+}

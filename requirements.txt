@@ -1,0 +1,7 @@
+# Direct runtime dependencies only. Python 3.10 was used for validation.
+# Install a matching torch/torchvision pair for your CPU or CUDA platform.
+# This is not a version lock: see docs/DEPENDENCIES.md for tested versions.
+torch        # Optical propagation, automatic differentiation and optimization
+torchvision  # MNIST dataset and image transforms
+numpy        # Confusion matrices, array operations and CSV output
+matplotlib   # Saved confusion matrices and training curves

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-13",
+  "direct_dependencies": [
+    "matplotlib",
+    "numpy",
+    "torch",
+    "torchvision"
+  ],
+  "requirements_exactly_match_code_imports": true,
+  "python_files_parsed": 5,
+  "local_links_checked": 32,
+  "original_artifact_hashes_verified": true,
+  "fresh_install_verified": false
+}
